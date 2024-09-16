@@ -85,5 +85,5 @@ function changeMessage() {
 }
 
 // Cambiar el mensaje cada 8 segundos
-setInterval(changeMessage, 4000);
+setInterval(changeMessage, 5000);
 
