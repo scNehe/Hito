@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+    overflow: hidden;
+    background-color: #000;
+    color: white;
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    flex-direction: column;
+}
+
+canvas {
+    display: block;
+}
+
+h1 {
+    position: absolute;
+    top: 50px;
+    font-size: 4em;
+    text-align: center;
+    color: yellow;
+    text-shadow: 2px 2px 8px #FF5733;
+    transition: opacity 1s ease-in-out;
+}
+
