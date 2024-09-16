@@ -1,4 +1,4 @@
-// Selecciona el canvas y su contexto 2D
+// Selecciona el canvas y su contexto 2Dc
 const canvas = document.getElementById('c');
 const ctx = canvas.getContext('2d');
 
